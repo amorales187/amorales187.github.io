@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Anita Morales"
+title: "Manifesto for a (Future) Data Scientist "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Manifesto for a (Future) Data Scientist 
 
 While technology is advancing at exponential rates, data is forming and being collected at quicker speeds. In fields, such as academia or science, ideas are producing new data to be managed and collected. In the internet realm, users are sharing their data and contributing to the massive data production as they are creating new accounts or simply navigating the web.
 
